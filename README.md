@@ -5,7 +5,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Orkhan</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Aghabala</h1></summary>
   </ul>
   <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=350&height=30">
@@ -42,11 +42,11 @@
 
 - ⚡ Fun fact:- Food🍗, Music🎵 and Coding💻 are reasons to live.
 
-- 💬 Ask me about **React.js JavaScript TypeScript Html Css Sass Noode.js MUI**
+- 💬 Ask me about **React.js JavaScript Html Css Sass Noode.js **
 
 - 🏡'Lives in **Azerbaijan Baku**
 
-- 📫 How to reach me **Orkhankarimoff@hotmail.com**
+- 📫 How to reach me **agabala.93@gmail.com**
 
 
 
@@ -114,8 +114,7 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/orkhan-karimov-bb676226b/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://www.instagram.com/orxan_keriimov/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+<a href="[https://www.linkedin.com/in/orkhan-karimov-bb676226b/](https://www.linkedin.com/in/agabala-karimli-317838a9/)" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
   </p>
 
 
